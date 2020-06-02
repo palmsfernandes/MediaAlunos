@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\Desktop\CSharp\MediaAlunos\MediaAlunos\bin\Debug\MediaAlunos.exe.config
+C:\Users\vinicius.fernandes\Desktop\CSharp\MediaAlunos\MediaAlunos\bin\Debug\MediaAlunos.exe
+C:\Users\vinicius.fernandes\Desktop\CSharp\MediaAlunos\MediaAlunos\bin\Debug\MediaAlunos.pdb
+C:\Users\vinicius.fernandes\Desktop\CSharp\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.exe
+C:\Users\vinicius.fernandes\Desktop\CSharp\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.pdb
+C:\Users\vinicius.fernandes\Desktop\CSharp\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.csprojAssemblyReference.cache
